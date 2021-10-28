@@ -1,2 +1,2 @@
-# deck
+# cards
 52 card deck
