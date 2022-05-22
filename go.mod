@@ -1,3 +1,3 @@
 module github.com/Heebron/cards
 
-go 1.16
+go 1.18
